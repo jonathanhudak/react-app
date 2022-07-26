@@ -6,10 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Let's see if ptr-pudh.js command hooks are being executed with just
-          git push
-        </p>
+        <p>Update Manual Deployment</p>
         <a
           className="App-link"
           href="https://reactjs.org"
